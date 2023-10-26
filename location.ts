@@ -2,7 +2,7 @@ import axios from 'axios';
 
 export interface LocationInfo {
   lat: string;
-  long: string;
+  lon: string;
   display_name: string;
 }
 
